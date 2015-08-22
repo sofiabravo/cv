@@ -1,0 +1,37 @@
+h1 {
+    color: #006666;
+    font-size: 32px;
+}
+#nombre {
+	font-family: Andale Mono, monospace
+}
+
+body {
+    background-color: #99CCCC;
+    text-align: justify;
+}
+
+ul     	     {
+		list-style: none;
+	     }
+
+ul li:before {
+		content: "\2192 \0020";
+	     }
+
+.textos {
+	font-size: 14px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+}
+
+.textos2 {
+	color: white;
+}
+
+.bloque {
+	background-color: blue;
+}
+img {
+	margin: 0px 25px 25px 0; 
+	padding: 50px 50px 50px 50px
+}
